@@ -1,0 +1,2 @@
+/usr/bin/ar qc libraft.a CMakeFiles/raft.dir/src/main.c.o CMakeFiles/raft.dir/src/raft_fsm.c.o CMakeFiles/raft.dir/src/raft_network.c.o CMakeFiles/raft.dir/src/raft_types.c.o
+/usr/bin/ranlib libraft.a
